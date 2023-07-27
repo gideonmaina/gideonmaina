@@ -1,7 +1,7 @@
 <!-- [![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://gideonmaina.me) -->
 <h1 align="center">Hi 👋, I'm Gideon Maina</h1>
 <h3 align="center">A passionate full-stack web developer and hardware engineer</h3>
-<img align="right" alt="banner" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="banner" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giddie&label=Profile%20views&color=0e75b6&style=flat" alt="giddie" /> </p>
 
